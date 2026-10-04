@@ -1,0 +1,5 @@
+opencv-python
+mediapipe==0.10.14
+ultralytics
+pygame
+numpy<2

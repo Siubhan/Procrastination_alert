@@ -1,0 +1,4 @@
+-r requirements.txt
+pytest
+pytest-cov
+scikit-image   # тестовое фото лица для интеграционных тестов и бенчмарка
